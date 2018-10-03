@@ -1,0 +1,9 @@
+.directory
+.vscode
+dht22_arduino_uno_nano/
+i2c_address/
+lcd/
+libraries/
+ultrasonic_arduino_uno_nano/
+wifi/
+connect_ap.lua
